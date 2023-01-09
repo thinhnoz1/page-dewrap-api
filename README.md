@@ -7,9 +7,10 @@ Note: make sure you have `pip` and `virtualenv` installed.
 
     To run test: make tests
 
-    To run application: make run
+    To run application: make run or python manage.py run
 
     To run all commands at once : make all
+	
 
 Make sure to run the initial migration commands to update the database.
     
